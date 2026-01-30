@@ -1,27 +1,25 @@
-<div align="center">
-  
-# 💫 Hey there, I'm Husain! 
+<h1 align="center">👋 Hi, I'm Husain Anshor</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+%26+JavaScript+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/husainanshor)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/husainanshor)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/husainanshor)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@husainanshor)
+<p align="center">
+  <a href="https://linkedin.com/in/husainanshor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://dev.to/husainanshor"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="https://instagram.com/husainanshor"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://youtube.com/@husainanshor"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=husainanshor&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=husainanshor&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-<div align="center">
-
-## 🚀 About Me
-
-</div>
+### 🚀 About Me
 
 ```python
 class Developer:
@@ -30,91 +28,107 @@ class Developer:
         self.role = "Full Stack Developer"
         self.location = "Surabaya, Indonesia 🇮🇩"
         self.languages = ["Python", "JavaScript", "TypeScript"]
-        self.current_focus = "Building scalable web applications"
-        self.interests = ["Open Source", "AI/ML", "Cloud Computing"]
-    
+        
     def say_hi(self):
-        print("Thanks for visiting! Let's build something amazing together!")
+        print("Thanks for dropping by! Let's build something amazing together! 🚀")
 
 me = Developer()
 me.say_hi()
 ```
 
----
-
-<div align="center">
-
-## 💻 Tech Stack
-
-</div>
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### Testing & Quality
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
-</div>
+- 🔭 I'm currently working on **Web Development Projects**
+- 🌱 I'm currently learning **Advanced React & Cloud Technologies**
+- 💬 Ask me about **Python, JavaScript, React**
+- 📫 How to reach me: **your.email@gmail.com**
+- ⚡ Fun fact: **I love coding and coffee ☕**
 
 ---
 
-<div align="center">
+### 💻 Tech Stack
 
-## 📊 GitHub Statistics
+**Languages:**
 
-<img src="https://github-readme-stats.vercel.app/api?username=husainanshor&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=husainanshor&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husainanshor&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="45%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=husainanshor&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+**Frameworks & Libraries:**
 
-</div>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Databases:**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Tools & DevOps:**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ---
 
-<div align="center">
+### 📊 GitHub Stats
 
-## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=husainanshor&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husainanshor&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180em" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=husainanshor&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=husainanshor&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-<div align="center">
+### 🏆 GitHub Trophies
 
-## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=husainanshor&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="trophies" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=husainanshor&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+---
+
+### 🎵 Spotify Playing
+
+<p align="center">
+  <a href="https://open.spotify.com/user/shor">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=shor&count=5&unique=true" alt="Spotify recently played" />
+  </a>
+</p>
+
+---
+
+### 📝 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/husainanshor/husainanshor/output/github-contribution-grid-snake-dark.svg">
@@ -122,81 +136,14 @@ me.say_hi()
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/husainanshor/husainanshor/output/github-contribution-grid-snake.svg">
 </picture>
 
-</div>
-
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
 
-## 🎵 Spotify Playing
+<h3 align="center">💙 Thanks for visiting! Have a great day! 🚀</h3>
 
-[![Spotify](https://novatorem-husainanshor.vercel.app/api/spotify)](https://open.spotify.com/user/shor)
-
-</div>
-
----
-
-<div align="center">
-
-## 💼 Top Projects
-
-<a href="https://github.com/husainanshor/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=husainanshor&repo=project1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/husainanshor/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=husainanshor&repo=project2&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-> 💡 *Subscribe to stay updated with my latest content!*
-
-</div>
-
----
-
-<div align="center">
-
-## 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### ✍️ Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=husainanshor&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-**💙 If you like my work, consider buying me a coffee!**
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/husainanshor)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/husainanshor)
-
----
-
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
-
-**Happy Coding! 🚀**
-
-</div>
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/husainanshor">husainanshor</a></i>
+</p>
