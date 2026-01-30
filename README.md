@@ -5,11 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/husainanshor](https://www.linkedin.com/in/husain-anshoruddin)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/husain-anshoruddin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://instagram.com/husainanshor"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:husain.anshor17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.youtube.com/@husainanshoruddin"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://husainanshor.pens.ac.id"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -86,7 +90,7 @@ me.say_hi()
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=husainanshor&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
+---
 
 ### 📈 Contribution Graph
 
