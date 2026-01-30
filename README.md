@@ -5,12 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/husainanshor"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://linkedin.com/in/husainanshor](https://www.linkedin.com/in/husain-anshoruddin)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://dev.to/husainanshor"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
   <a href="https://instagram.com/husainanshor"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://youtube.com/@husainanshor"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="mailto:husain.anshor17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@husainanshoruddin"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -39,7 +38,7 @@ me.say_hi()
 - 🔭 I'm currently working on **Web Development Projects**
 - 🌱 I'm currently learning **Advanced React & Cloud Technologies**
 - 💬 Ask me about **Python, JavaScript, React**
-- 📫 How to reach me: **your.email@gmail.com**
+- 📫 How to reach me: **husainanshor@ce.student.pens.ac.id**
 - ⚡ Fun fact: **I love coding and coffee ☕**
 
 ---
@@ -84,38 +83,15 @@ me.say_hi()
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=husainanshor&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husainanshor&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180em" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=husainanshor&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=husainanshor&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
----
 
-### 🏆 GitHub Trophies
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=husainanshor&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="trophies" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=husainanshor&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
----
-
-### 🎵 Spotify Playing
-
-<p align="center">
-  <a href="https://open.spotify.com/user/shor">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=shor&count=5&unique=true" alt="Spotify recently played" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=husainanshor&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
 </p>
 
 ---
@@ -125,16 +101,6 @@ me.say_hi()
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/husainanshor/husainanshor/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/husainanshor/husainanshor/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/husainanshor/husainanshor/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
